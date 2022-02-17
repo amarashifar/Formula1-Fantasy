@@ -3,7 +3,7 @@
  * @author Amirali Marashifar
  * @version 1.0
  * @since 2022-2-7
- * This is a basic Person class that has several attributes of university students. 
+ * This is a basic Person class that has several attributes of all people. 
  * Compile as {@code javac Person.java}
  * **/
 public class Person {
